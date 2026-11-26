@@ -1,4 +1,4 @@
-# Hi, I'm Loutlot 👋
+# 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 
 I make little tools for weirdly specific problems, from wired EarPods controls to DIY MIDI hardware.
 
@@ -12,4 +12,4 @@ I make little tools for weirdly specific problems, from wired EarPods controls t
 
 ### GitHub activity
 
-Most of my development happens in private repositories. The contribution graph below includes that activity as anonymous counts.
+Most of my devs happen in private repositories.
