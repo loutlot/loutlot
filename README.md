@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Loutlot 👋
 
-<!--
-**loutlot/loutlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make little tools for weirdly specific problems, from wired EarPods controls to DIY MIDI hardware.
 
-Here are some ideas to get you started:
+### Public projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+| --- | --- |
+| [codepods](https://github.com/loutlot/codepods) | Control ChatGPT on macOS with wired EarPods. |
+| [DIY Midi Fighter](https://github.com/loutlot/DIYMidiFighter) | Build a MIDI pad with arcade buttons. |
+| [Quest 3 Cable Holder](https://github.com/loutlot/Quest3-Cableholder) | Keep Link and EarPods cables in place on a Quest 3. |
+
+### GitHub activity
+
+Most of my development happens in private repositories. The contribution graph below includes that activity as anonymous counts.
