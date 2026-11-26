@@ -1,6 +1,6 @@
 # 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 
-I make little tools for weirdly specific problems, from wired EarPods controls to DIY MIDI hardware.
+I make tools for weird problems, from wired EarPods controls to DIY MIDI hardware.
 
 ### Public projects
 
